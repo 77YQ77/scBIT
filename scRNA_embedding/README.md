@@ -7,13 +7,14 @@ The purpose of these codes is to learn the representation for the generated gene
 
 ## Requirements
 
-This network framework is implemented through PyTorch and PyTorch Geometric.
+This network framework is mainly implemented through PyTorch and PyTorch Geometric.
 
 ```
 * python                3.9.0
 * torch                 1.10.1+cu113
 * torch_geometric       2.4.0
 ```
+You may find all the required packages in the requirements.txt file.
 
 ## Data Preparation
 Datasets should be downloaded into './datasets/'. Hyper-parameters can be changed in 'Configures.py'
