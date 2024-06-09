@@ -4,4 +4,4 @@ The second stage builds pre-trained brain ROI-level encoders to learn ROI-level 
 The third stage adaptively fuses the cross-modal attention and the ROI-level embeddings for Alzheimer's diagnosis.
 
 ### Data Preparation
-Datasets should be downloaded from [ADNI](https://adni.loni.usc.edu/)
+Datasets can be downloaded from [ADNI](https://adni.loni.usc.edu/) and processed by the AAL atlas. The processed datasets are further normalized and named as 'fmri_data_norm.npy' into './datasets/'.
