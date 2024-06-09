@@ -14,7 +14,7 @@ This network framework is mainly implemented through PyTorch and PyTorch Geometr
 * torch                 1.10.1+cu113
 * torch_geometric       2.4.0
 ```
-You may find all the required packages in the requirements.txt file.
+You may find all the required packages in the *requirements.txt file.*
 
 ## Data Preparation
 Datasets should be downloaded into './datasets/'. Hyper-parameters can be changed in 'Configures.py'
