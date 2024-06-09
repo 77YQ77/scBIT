@@ -293,10 +293,10 @@ def normalization(data):
 
 def main():
 
-    similarity_age = np.load('data/age_absolute_difference_matrix.npy',allow_pickle=True)
-    similarity_gene = np.load('data/gene_cosine_difference_matrix.npy',allow_pickle=True)
-    similarity_sex = np.load('data/sex_absolute_difference_matrix.npy',allow_pickle=True)
-    similarity_group = np.load('data/group_absolute_similarity_classification.npy',allow_pickle=True)
+    similarity_age = np.load('data/age_sim_matrix.npy',allow_pickle=True)
+    similarity_gene = np.load('data/gene_sim_matrix.npy',allow_pickle=True)
+    similarity_sex = np.load('data/sex_sim_matrix.npy',allow_pickle=True)
+    similarity_group = np.load('data/group_sim_matrix.npy',allow_pickle=True)
     age_similarity = normalization(similarity_age)
     gene_similarity = normalization(similarity_gene)
     sex_similarity = similarity_sex
