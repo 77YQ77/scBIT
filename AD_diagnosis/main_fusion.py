@@ -306,9 +306,9 @@ def main():
     print('sex_similarity',sex_similarity.shape)
     print('group_similarity',group_similarity.shape)
     
-    fmri_data = np.load('data/fmri_data_norm.npy',allow_pickle=True)
+    fmri_data = np.load('data/fmri_data.npy',allow_pickle=True)
     print('fmri_data',fmri_data.shape)
-    single_cell = np.load('data/single_cell.npy',allow_pickle=True)
+    single_cell = np.load('data/gene_subgraph_embeddings.npy',allow_pickle=True)
     print('single_cell',single_cell.shape)
     patient_label = np.load('data/patient_label.npy',allow_pickle=True)
     patient_label = torch.tensor(patient_label)
