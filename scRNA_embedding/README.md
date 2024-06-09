@@ -1,5 +1,3 @@
-![image](https://github.com/77YQ77/scBIT/assets/123225493/276f27d1-4348-4709-9ee5-8dd95424acbc)
-
 ## Introduction
 
 This is the official implementation for the first stage of the scBIT framework. 
