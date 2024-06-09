@@ -1,7 +1,8 @@
 
 
-## 模型名字
-模型简介，该模型xxx
+## Introduction
+
+These codes is used to learn representation for generated gene-gene interaction subgraph.
 
 ## Requirements
 
