@@ -1,9 +1,9 @@
-
+![image](https://github.com/77YQ77/scBIT/assets/123225493/276f27d1-4348-4709-9ee5-8dd95424acbc)
 
 ## Introduction
 
-These codes are for the first stage of the scBIT framework. 
-The purpose of these codes is to learn the representation for the generated gene-gene interaction subgraph.
+This is the official implementation for the first stage of the scBIT framework. 
+These codes utilize the bagging strategy and self-explainable GNN to learn the representation for the generated gene-gene interaction subgraph.
 
 ## Requirements
 
