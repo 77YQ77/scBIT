@@ -12,7 +12,7 @@ The codes are divided into two parts:
 The users should first utilize codes for **_scRNA embedding_** to generate the gene subgraph embeddings for snRNA data. Subsequently, the users can leverage the codes for **_AD diagnosis_**, which learns the feature embeddings from fMRI samples and can adaptively fuse the knowledge from fMRI samples and snRNA data to improve the diagnostic performance of Alzheimer's disease.
 
 ### Installation
-Since these two stages are conducted in different environments, the users are encouraged to create different virtual environments and run the following command to install the required packages, respectively.
+Since these two stages are conducted in different environments, the users are encouraged to create different virtual environments and run the following commands to install the required packages.
 * for installing reliance of scRNA_embedding:
 ```
 pip install -r scRNA_embedding/requirements.txt
@@ -23,4 +23,4 @@ pip install -r scRNA_embedding/requirements.txt
 ```
 
 ### Usage
-You may find the introduction to run the codes for each stage once you open corresponding folders.
+You may find the introduction to run the codes for each stage once you open the corresponding folders.
