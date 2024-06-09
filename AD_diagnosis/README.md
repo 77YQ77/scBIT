@@ -14,6 +14,9 @@ This network framework is implemented through PyTorch.
 You may find all the required packages in the *requirements.txt file.*
 
 ### Data Preparation
-Datasets and labels can be downloaded from [ADNI](https://adni.loni.usc.edu/). The datasets are further processed by the AAL atlas and normalized, named 'fmri_data.npy' and stored into './data/.' The gene subgraph embeddings and different similarities, calculated in **_scRNA embedding_**, should also be converted into 'npy' format and included in './data/.'
+fMRI datasets and labels can be downloaded from [ADNI](https://adni.loni.usc.edu/). The datasets are further processed by the AAL atlas and normalized, named 'fmri_data.npy' and stored into './data/.' The gene subgraph embeddings and different similarities, calculated in **_scRNA embedding_**, should also be converted into 'npy' format and included in './data/.'
 
-### Data Preparation
+### Usage
+Using the ```main_fusion.py``` to train and test the model on your own dataset. The proposed network is defined in the ```model.py```. It can be easily edited and embedded in your own code.
+
+
