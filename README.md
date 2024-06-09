@@ -21,3 +21,6 @@ pip install -r scRNA_embedding/requirements.txt
 ```
 pip install -r scRNA_embedding/requirements.txt
 ```
+
+### Usage
+You may find the introduction to run the codes for each stage once you open corresponding folders.
