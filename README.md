@@ -9,4 +9,4 @@ The codes are divided into two parts:
 
 **2. _AD diagnosis_**
 
-The users should first utilize **_scRNA embedding_** to generate the gene subgraph embeddings for snRNA data.
+The users should first utilize codes for **_scRNA embedding_** to generate the gene subgraph embeddings for snRNA data. Subsequently, the users can leverage the codes for **_AD diagnosis_**, which learns the feature embeddings from fMRI samples and can adaptively fuse the knowledge from fMRI samples and snRNA data to improve the diagnostic performance of Alzheimer's disease.
