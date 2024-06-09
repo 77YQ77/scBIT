@@ -18,7 +18,9 @@ This network framework is implemented through PyTorch and PyTorch Geometric.
 ## Data Preparation
 Datasets should be downloaded into './datasets/'. Hyper-parameters can be changed in 'Configures.py'
 Each data file should contain two parts:
+
 $~~~~$one is the gene expression matrix file, its rows represent genes and columns represent cells.The naming format is as follows: ```{species}_{tissue}{id}_data.csv```
+
 $~~~~$The other is the file of celltype. The naming format is: ```{species}_{tissue}{id}_celltype.csv```
 
 ## Usage
