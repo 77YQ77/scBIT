@@ -2,7 +2,8 @@
 
 ## Introduction
 
-These codes is used to learn representation for generated gene-gene interaction subgraph.
+These codes are the first stage of the scBIT framework. 
+The purpose of these codes is to learn the representation for the generated gene-gene interaction subgraph.
 
 ## Requirements
 
