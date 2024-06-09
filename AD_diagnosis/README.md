@@ -5,7 +5,7 @@ The third stage adaptively fuses the cross-modal attention and the ROI-level emb
 
 ## Requirements
 
-This network framework is implemented through PyTorch.
+This network framework is mainly implemented through PyTorch.
 
 ```
 * python                3.8.1
