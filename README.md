@@ -19,7 +19,7 @@ pip install -r scRNA_embedding/requirements.txt
 ```
 * the command for installing reliance of AD_diagnosis:
 ```
-pip install -r scRNA_embedding/requirements.txt
+pip install -r AD_diagnosis/requirements.txt
 ```
 
 ### Usage
