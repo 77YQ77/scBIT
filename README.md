@@ -1,6 +1,7 @@
 # Advancing brain imaging transcriptomics to single-cell level for Alzheimer's disease diagnosis
 ## An Alzheimer's disease diagnosis method based on the adaptive matching of fMRI samples and snRNA data.
 
+### Introduction
 This repository provides the Python implementation of advancing brain imaging transcriptomics to single-cell level for Alzheimer's disease diagnosis (scBIT). 
 
 The codes are divided into two parts:
