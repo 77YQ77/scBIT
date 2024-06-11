@@ -23,4 +23,4 @@ pip install -r AD_diagnosis/requirements.txt
 ```
 
 ### Usage
-You may find the introduction to run the codes for each stage once you open the corresponding folders.
+The users can find the introduction to run the codes for each stage once they open the corresponding folders.
